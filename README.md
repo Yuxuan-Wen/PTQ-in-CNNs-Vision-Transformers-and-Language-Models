@@ -4,6 +4,8 @@
 Department of Electrical and Computer Engineering  
 Department of Biomedical Engineering  
 
+![Poster](./Slide1.jpg)
+
 ## Overview
 
 Post-training quantization (PTQ) has become an essential tool for reducing the memory and compute footprint of deep neural networks without requiring full finetuning. While numerous PTQ algorithms have been proposed, a systematic cross-architectural analysis of their behavior across convolutional networks, vision transformers, and language models remains limited.
@@ -21,4 +23,4 @@ Additionally, we show that quantization disproportionately perturbs activation o
 
 Together, these results provide a **unified view of PTQ behavior** across major model families and highlight architectural factors that should guide future quantization methods toward generalizable, structure-aware solutions.
 
-![Poster](./poster.jpg)
+
